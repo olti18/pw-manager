@@ -161,4 +161,3 @@ document.getElementById("saveBtn").addEventListener("click", savePassword);
 
 // Call displayPasswords() initially to show any stored passwords
 displayPasswords();
-
