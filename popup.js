@@ -143,7 +143,7 @@ async function displayPasswords() {
     const ivBuffer = base64ToArrayBuffer(iv);
     const encryptedPasswordBuffer = base64ToArrayBuffer(encryptedPassword);
 
-    // Decrypt the password
+    // Decrypt the pw
     const decryptedPassword = await decryptPassword(
       encryptedPasswordBuffer,
       ivBuffer,
