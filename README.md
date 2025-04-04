@@ -1,2 +1,2 @@
 # Pw-Manager
- Extenson for Password Manager
+ Extensoin for Password Manager
